@@ -9,7 +9,7 @@
 |Contents | Practice                | Project | 
 |----|----------------------|----------|
 |E1. Image Classification  | MNIST 손글씨 분류 (link) | 가위바위보 분류기 [(link)](https://github.com/p2yeong/AIFFEL/blob/master/exploration/exploration01_Rock%20Scissor%20Paper.ipynb)        
-|E2. Classification   | Iris 품종 분류 (link)  |
+|E2. Classification   | Iris 품종 분류 (link)  | digits, wine, brast cancer 분류기 [(link)](https://github.com/p2yeong/AIFFEL/blob/master/exploration/exploration02_classification.ipynb)
 
 
 ## Fundamentals
