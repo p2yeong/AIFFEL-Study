@@ -10,7 +10,7 @@
 |----|----------------------|----------|
 |E1. Image Classification  | MNIST 손글씨 분류 | [가위바위보 분류기](https://github.com/p2yeong/AIFFEL/blob/master/exploration/exploration01_Rock%20Scissor%20Paper.ipynb)        
 |E2. Classification   | Iris 품종 분류  | [digits, wine, brast cancer 분류기](https://github.com/p2yeong/AIFFEL/blob/master/exploration/exploration02_classification.ipynb)
-
+|E3. Face Detection   | 왕관 스티커 앱 | [고양이 수염 스티커 앱](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E3_camera_sticker_app.ipynb)
 
 ## Fundamentals
 |Contents | Link|
