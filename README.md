@@ -14,6 +14,7 @@
 |E4. Text Generation | [셰익스피어 소설 생성](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E4_generate_text.ipynb) | [가사 생성](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E4_lyrics_generator.ipynb)
 |E5. Face Embedding | [Face Embedding](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E5_face_embedding.ipynb) | [닮은꼴 연예인 찾기](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E5_Find_look_alike_celebrities.ipynb)
 |E6. Kaggle | [House_Price_Prediction_baseline](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E6_predict_house_pricie.ipynb) | [House_Price_Prediction](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E6_predict_house_pricie_upgrade.ipynb)
+|E7. Sentiment Analysis | [IMDB 영화 감성 분류](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E7_imdb_review_sentiment.ipynb) | [네이버 영화 감성 분류](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E7_naver_review_sentiment.ipynb)
 
 ## Fundamentals
 |Contents | Link|
