@@ -17,7 +17,7 @@
 |E7. Sentiment Analysis | [IMDB 영화 감성 분류](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E7_imdb_review_sentiment.ipynb) | [네이버 영화 감성 분류](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E7_naver_review_sentiment.ipynb)
 |E8.Image Segmentation | [인물 사진 모드](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E8_shallow_focus.ipynb) | [인물사진모드 및 크로마키 합성](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E8_shallow_focus_problems.ipynb)
 |E9. Recommend System | [LastFM 아티스트 추천](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E9_recommend_artists.ipynb) | [Movielens 영화 추천](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E9_recommend_movies.ipynb)
-|E10. Text Summarization | [LastFM 아티스트 추천](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E9_recommend_artists.ipynb) | [Movielens 영화 추천](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E9_recommend_movies.ipynb)
+|E10. Text Summarization | [Amazon Food Review 요약](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E10_text_summarization_reviews.ipynb) | [신문기사 요약](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E10_text_summarization_news.ipynb)
 
 ## Fundamentals
 |Contents | Link|
