@@ -24,5 +24,3 @@
 |Contents | Link|
 |----|-------------|
 | F16.Regression |[📕](https://github.com/p2yeong/AIFFEL/blob/master/fundamentals/F16_regression.ipynb)|
-
-## Hackathon
