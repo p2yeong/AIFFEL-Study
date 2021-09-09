@@ -19,6 +19,10 @@
 |E9. Recommend System | [LastFM 아티스트 추천](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E9_recommend_artists.ipynb) | [Movielens 영화 추천](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E9_recommend_movies.ipynb)
 |E10. Text Summarization | [Amazon Food Review 요약](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E10_text_summarization_reviews.ipynb) | [신문기사 요약](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E10_text_summarization_news.ipynb)
 |E11. Bio Medical Image Classification| [X-ray Image Classification(baseline)](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E11_medical_image_analysis_baseline.ipynb) | [X-ray Image Classification](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E11_medical_image_analysis_upgrade.ipynb)
+|E12. Recommend System| | |
+|E13. GAN| | | 
+|E14. Timeseries Prediction||[주식 가격 예측](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E14_time_series_prediction_trading.ipynb)| 
+
 
 ## Fundamentals
 |Contents | Link|
