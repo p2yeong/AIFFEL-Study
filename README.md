@@ -21,8 +21,9 @@
 |E11. Bio Medical Image Classification| [X-ray Image Classification(baseline)](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E11_medical_image_analysis_baseline.ipynb) | [X-ray Image Classification](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E11_medical_image_analysis_upgrade.ipynb)
 |E12. Recommend System| | |
 |E13. GAN| | | 
-|E14. Timeseries Prediction||[주식 가격 예측](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E14_time_series_prediction_trading.ipynb)| 
-
+|E14. Timeseries Prediction||[주식 가격 예측](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E14_time_series_prediction_trading.ipynb)|
+|E15. chatbot||| 
+|E16. Super Resolution||[Super Resolution with SRGAN](https://github.com/p2yeong/AIFFEL/blob/master/exploration/E16_SRGAN.ipynb)|
 
 ## Fundamentals
 |Contents | Link|
